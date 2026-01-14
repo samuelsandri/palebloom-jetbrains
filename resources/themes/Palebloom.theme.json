@@ -1,0 +1,240 @@
+{
+  "name": "Palebloom",
+  "author": "Samuel Sandri",
+  "dark": true,
+  "parentTheme": "Islands Dark",
+  "editorScheme": "/themes/Palebloom.xml",
+  "colors": {
+
+    "transparent": "#00000000",
+
+    "shade0": "#1F1F26",
+    "shade1": "#24242D",
+    "shade2": "#282832",
+    "shade3": "#343440",
+    "shade4": "#494957",
+    "shade5": "#88889A",
+    "shade6": "#B6B6CA",
+    "shade7": "#EAEAFF",
+
+    "pink": "#FFCFFE",
+    "purple": "#CDBBFF",
+    "blue": "#AACEFA",
+    "cyan": "#BCEDF9",
+    "green": "#B9E1C6",
+    "yellow": "#F0FFBA",
+    "orange": "#F7D3B7",
+    "red": "#FFA1B1",
+
+    "pinkBackground": "#5A3D5A",
+    "purpleBackground": "#50456A",
+    "blueBackground": "#2F3E4F",
+    "cyanBackground": "#435756",
+    "greenBackground": "#314E3C",
+    "yellowBackground": "#42452C",
+    "orangeBackground": "#4D3E30",
+    "redBackground": "#513434",
+
+    "background": "#343440",
+    "surface": "#282832",
+    "menu": "#343440",
+    "overlay": "#24242D",
+    "input": "#24242D",
+    "inputButton": "#343440",
+    "border": "#494957",
+    "text": "#EAEAFF",
+
+    "debug": "#FF0000",
+    "debug2": "#FFFF00"
+  },
+  "icons": {
+    "ColorPalette": {
+      "Actions.Blue": "#AACEFA",
+      "Actions.Green": "#B9E1C6",
+      "Actions.Grey": "#494957",
+      "Actions.GreyInline": "#494957",
+      "Actions.GreyInline.Dark": "#494957",
+      "Actions.Red": "#FFA1B1",
+      "Actions.Yellow": "#F0FFBA",
+      "Checkbox.Background.Selected.Dark": "#CDBBFF",
+      "Checkbox.Background.Default.Dark": "#24242D",
+      "Checkbox.Border.Selected.Dark": "#CDBBFF",
+      "Checkbox.Foreground.Selected.Dark": "#24242D",
+      "Objects.BlackText": "#24242D",
+      "Objects.Blue": "#AACEFA",
+      "Objects.Green": "#B9E1C6",
+      "Objects.GreenAndroid": "#a3be8c",
+      "Objects.Grey": "#494957",
+      "Objects.Pink": "#FFCFFE",
+      "Objects.Purple": "#CDBBFF",
+      "Objects.Red": "#FFA1B1",
+      "Objects.RedStatus": "#FFA1B1",
+      "Objects.Yellow": "#F0FFBA",
+      "Objects.YellowDark": "#F7D3B7"
+    }
+  },
+  "ui": {
+    "*": {
+      "acceleratorForeground": "shade6",
+      "acceleratorSelectionForeground": "shade6",
+      "background": "background",
+      "borderColor": "surface",
+      "disabledBackground": "surface",
+      "disabledBorderColor": "shade5",
+      "disabledForeground": "shade5",
+      "disabledText": "shade5",
+      "errorForeground": "red",
+      "focusColor": "shade6",
+      "focusedBorderColor": "shade6",
+      "foreground": "text",
+      "inactiveBackground": "background",
+      "inactiveForeground": "shade6",
+      "infoForeground": "shade6",
+      "lightSelectionBackground": "overlay",
+      "lightSelectionForeground": "text",
+      "lightSelectionInactiveBackground": "overlay",
+      "lightSelectionInactiveForeground": "text",
+      "lineSeparatorColor": "border",
+      "modifiedItemForeground": "cyan",
+      "selectionBackground": "overlay",
+      "selectionBackgroundInactive": "overlay",
+      "selectionForeground": "text",
+      "selectionInactiveBackground": "overlay",
+      "separatorColor": "border",
+      "separatorForeground": "shade5"
+    },
+    "ActionButton": {
+      "hoverBackground": "shade1",
+      "hoverBorderColor": "shade1",
+      "pressedBackground": "shade0",
+      "pressedBorderColor": "shade0"
+    },
+    "Button": {
+      "background": "menu",
+      "focusedBorderColor": "overlay",
+      "default": {
+        "startBackground": "purpleBackground",
+        "endBackground": "blueBackground",
+        "startBorderColor": "purple",
+        "endBorderColor": "blue",
+        "foreground": "text",
+        "focusedBorderColor": "overlay"
+      }
+    },
+    "CheckBox": {
+      "background": "transparent"
+    },
+    "ComboBox": {
+      "nonEditableBackground": "input",
+      "ArrowButton": {
+        "nonEditableBackground": "inputButton"
+      }
+    },
+    "ComplexPopup": {
+      "Header":{
+        "background": "menu"
+      }
+    },
+    "DefaultTabs": {
+      "background": "surface"
+    },
+    "Editor": {
+      "SearchField": {
+        "background": "overlay"
+      }
+    },
+    "EditorTabs": {
+      "underlinedBorderColor": "purpleBackground",
+      "underlinedTabBackground": "purpleBackground",
+      "inactiveUnderlinedTabBorderColor": "shade0",
+      "inactiveUnderlinedTabBackground": "shade0",
+      "hoverBackground": "overlay"
+    },
+    "EditorPane": {
+      "splitBorder": "border"
+    },
+    "FileColor": {
+      "Blue": "blueBackground",
+      "Yellow": "yellowBackground",
+      "Green": "greenBackground",
+      "Orange": "orangeBackground",
+      "Rose": "pinkBackground",
+      "Violet": "purpleBackground",
+      "Gray": "shade4"
+    },
+    "Link": {
+      "activeForeground": "blue"
+    },
+    "MainToolbar": {
+      "borderColor": "transparent"
+    },
+    "Menu": {
+      "background": "menu",
+      "separatorColor": "border"
+    },
+    "MenuItem": {
+      "background": "menu"
+    },
+    "Panel": {
+      "background": "menu"
+    },
+    "Plugins": {
+      "Button": {
+        "installBorderColor": "green",
+        "installForeground": "green",
+        "installBackground": "greenBackground",
+        "installFillBackground": "greenBackground",
+        "installFillForeground": "green",
+        "updateBackground": "blueBackground",
+        "updateBorderColor": "blue",
+        "updateForeground": "blue"
+      }
+    },
+    "Popup": {
+      "background": "menu",
+      "borderColor": "menu",
+      "Advertiser": {
+        "background": "overlay"
+      }
+    },
+    "PopupMenu": {
+      "background": "menu"
+    },
+    "StatusBar": {
+      "borderColor": "transparent"
+    },
+    "TextArea": {
+      "background": "input"
+    },
+    "TextField": {
+      "background": "input"
+    },
+    "TitlePane": {
+      "background": "menu"
+    },
+    "ToolBar": {
+      "background": "surface"
+    },
+    "ToolWindow": {
+      "background": "surface",
+      "Button": {
+        "selectedBackground": "purpleBackground",
+        "selectedForeground": "purple"
+      },
+      "Header": {
+        "background": "surface",
+        "borderColor": "border",
+        "inactiveBackground": "surface"
+      },
+      "Stripe": {
+        "borderColor": "transparent"
+      }
+    },
+    "Tree": {
+      "foreground": "text",
+      "background": "menu",
+      "modifiedItemForeground": "blue",
+      "errorForeground": "red"
+    }
+  }
+}
