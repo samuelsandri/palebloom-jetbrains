@@ -3,23 +3,36 @@
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
     <id>com.palebloom.jetbrains</id>
     <name>Palebloom Theme</name>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
     <vendor url="https://www.palebloomtheme.com">Palebloom</vendor>
     <category>UI</category>
     <description><![CDATA[
 Clean modern dark themes for JetBrains IDEs using the new Islands Theme style.
 
-- Palebloom - A faded pastel dark theme.
-- Mossglade - A soft blue-green dark theme.
+<ul>
+    <li>Palebloom - A faded pastel dark theme</li>
+    <li>Mossglade - A soft blue-green dark theme</li>
+</ul>
 
-For more information visit the <a href="https://www.palebloomtheme.com">project site</a>.
+For more information visit the <a href="https://www.palebloomtheme.com">website</a>.
 ]]></description>
+    <change-notes><![CDATA[
+Recent changes:
+
+<ul>
+    <li>Fixed theme ids so they won't reset on updates</li>
+    <li>Fixed Blazor support</li>
+    <li>Improved contrast in Mossglade</li>
+</ul>
+
+For more information visit the <a href="https://www.palebloomtheme.com">website</a>.
+]]></change-notes>
 
     <idea-version since-build="251"/>
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="Palebloom" path="/themes/Palebloom.theme.json"/>
-        <themeProvider id="Mossglade" path="/themes/Mossglade.theme.json"/>
+        <themeProvider id="43ae995f-ab50-487d-9a0f-d8203bc8a081" path="/themes/Mossglade.theme.json"/>
+        <themeProvider id="a41f0c87-f5fb-4ec5-9e94-04b34936bc03" path="/themes/Palebloom.theme.json"/>
     </extensions>
 </idea-plugin>

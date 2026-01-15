@@ -17,6 +17,13 @@
     "shade6": "#B6B6CA",
     "shade7": "#EAEAFF",
 
+    "primary": "#CDBBFF",
+    "secondary": "#F0FFBA",
+    "tertiary": "#AACEFA",
+    "primaryFill": "#50456A",
+    "secondaryFill": "#42452C",
+    "tertiaryFill": "#2F3E4F",
+
     "pink": "#FFCFFE",
     "purple": "#CDBBFF",
     "blue": "#AACEFA",
@@ -43,9 +50,8 @@
     "inputButton": "#343440",
     "border": "#494957",
     "text": "#EAEAFF",
-
-    "debug": "#FF0000",
-    "debug2": "#FFFF00"
+    "textMuted": "#B6B6CA",
+    "textDisabled": "#88889A"
   },
   "icons": {
     "ColorPalette": {
@@ -75,33 +81,33 @@
   },
   "ui": {
     "*": {
-      "acceleratorForeground": "shade6",
-      "acceleratorSelectionForeground": "shade6",
+      "acceleratorForeground": "textMuted",
+      "acceleratorSelectionForeground": "textMuted",
       "background": "background",
       "borderColor": "surface",
       "disabledBackground": "surface",
-      "disabledBorderColor": "shade5",
-      "disabledForeground": "shade5",
-      "disabledText": "shade5",
+      "disabledBorderColor": "textDisabled",
+      "disabledForeground": "textDisabled",
+      "disabledText": "textDisabled",
       "errorForeground": "red",
-      "focusColor": "shade6",
-      "focusedBorderColor": "shade6",
+      "focusColor": "textMuted",
+      "focusedBorderColor": "textMuted",
       "foreground": "text",
       "inactiveBackground": "background",
-      "inactiveForeground": "shade6",
-      "infoForeground": "shade6",
+      "inactiveForeground": "textMuted",
+      "infoForeground": "textMuted",
       "lightSelectionBackground": "overlay",
       "lightSelectionForeground": "text",
       "lightSelectionInactiveBackground": "overlay",
       "lightSelectionInactiveForeground": "text",
       "lineSeparatorColor": "border",
-      "modifiedItemForeground": "cyan",
+      "modifiedItemForeground": "blue",
       "selectionBackground": "overlay",
       "selectionBackgroundInactive": "overlay",
       "selectionForeground": "text",
       "selectionInactiveBackground": "overlay",
       "separatorColor": "border",
-      "separatorForeground": "shade5"
+      "separatorForeground": "textDisabled"
     },
     "ActionButton": {
       "hoverBackground": "shade1",
@@ -113,10 +119,10 @@
       "background": "menu",
       "focusedBorderColor": "overlay",
       "default": {
-        "startBackground": "purpleBackground",
-        "endBackground": "blueBackground",
-        "startBorderColor": "purple",
-        "endBorderColor": "blue",
+        "startBackground": "primaryFill",
+        "endBackground": "tertiaryFill",
+        "startBorderColor": "primary",
+        "endBorderColor": "tertiary",
         "foreground": "text",
         "focusedBorderColor": "overlay"
       }
@@ -144,8 +150,8 @@
       }
     },
     "EditorTabs": {
-      "underlinedBorderColor": "purpleBackground",
-      "underlinedTabBackground": "purpleBackground",
+      "underlinedBorderColor": "primaryFill",
+      "underlinedTabBackground": "primaryFill",
       "inactiveUnderlinedTabBorderColor": "shade0",
       "inactiveUnderlinedTabBackground": "shade0",
       "hoverBackground": "overlay"
@@ -223,8 +229,8 @@
     "ToolWindow": {
       "background": "surface",
       "Button": {
-        "selectedBackground": "purpleBackground",
-        "selectedForeground": "purple"
+        "selectedBackground": "primaryFill",
+        "selectedForeground": "primary"
       },
       "Header": {
         "background": "surface",
