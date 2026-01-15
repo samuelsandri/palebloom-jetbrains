@@ -176,6 +176,11 @@
     "PopupMenu": {
       "background": "menu"
     },
+    "SearchEverywhere": {
+      "List": {
+        "settingsBackground": "menu"
+      }
+    },
     "StatusBar": {
       "borderColor": "transparent"
     },
