@@ -8,8 +8,8 @@
 
     "transparent": "#00000000",
 
-    "shade0": "#161B1D",
-    "shade1": "#1B2023",
+    "shade0": "#171B1E",
+    "shade1": "#1B2123",
     "shade2": "#21292C",
     "shade3": "#2B393B",
     "shade4": "#3E5356",
@@ -45,8 +45,8 @@
     "background": "#2B393B",
     "surface": "#21292C",
     "menu": "#2B393B",
-    "overlay": "#1B2023",
-    "input": "#1B2023",
+    "overlay": "#1B2123",
+    "input": "#21292C",
     "inputButton": "#2B393B",
     "border": "#3E5356",
     "text": "#F4F6F6",
@@ -63,10 +63,10 @@
       "Actions.Red": "#FFA1B1",
       "Actions.Yellow": "#C3FFAB",
       "Checkbox.Background.Selected.Dark": "#B8F1F9",
-      "Checkbox.Background.Default.Dark": "#1B2023",
+      "Checkbox.Background.Default.Dark": "#21292C",
       "Checkbox.Border.Selected.Dark": "#B8F1F9",
-      "Checkbox.Foreground.Selected.Dark": "#1B2023",
-      "Objects.BlackText": "#1B2023",
+      "Checkbox.Foreground.Selected.Dark": "#1B2123",
+      "Objects.BlackText": "#1B2123",
       "Objects.Blue": "#BFC8FD",
       "Objects.Green": "#B3F4D6",
       "Objects.GreenAndroid": "#a3be8c",
@@ -201,6 +201,9 @@
       "borderColor": "menu",
       "Advertiser": {
         "background": "overlay"
+      },
+      "Header": {
+        "activeBackground": "menu"
       }
     },
     "PopupMenu": {

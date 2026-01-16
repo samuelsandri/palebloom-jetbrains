@@ -32,7 +32,9 @@ For more information visit the <a href="https://www.palebloomtheme.com">website<
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="6008ebb3-c005-418d-bcbc-505fcaba9127" path="/themes/MossgladeNight.theme.json"/>
         <themeProvider id="43ae995f-ab50-487d-9a0f-d8203bc8a081" path="/themes/Mossglade.theme.json"/>
+        <themeProvider id="7010882b-26ef-414e-a2f3-b4bfbd970ce8" path="/themes/PalebloomNight.theme.json"/>
         <themeProvider id="a41f0c87-f5fb-4ec5-9e94-04b34936bc03" path="/themes/Palebloom.theme.json"/>
     </extensions>
 </idea-plugin>

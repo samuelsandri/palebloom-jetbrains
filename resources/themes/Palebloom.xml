@@ -8,11 +8,11 @@
         <option name="ANNOTATIONS_COLOR" value="B6B6CA" />
         <option name="ANNOTATIONS_LAST_COMMIT_COLOR" value="EAEAFF" />
         <option name="CARET_COLOR" value="EAEAFF" />
-        <option name="CARET_ROW_COLOR" value="24242D" />
-        <option name="CONSOLE_BACKGROUND_KEY" value="282832" />
+        <option name="CARET_ROW_COLOR" value="202028" />
+        <option name="CONSOLE_BACKGROUND_KEY" value="272730" />
         <option name="DELETED_LINES_COLOR" value="494957" />
         <option name="DIFF_SEPARATORS_BACKGROUND" value="2B2D30" />
-        <option name="DOCUMENTATION_COLOR" value="282832" />
+        <option name="DOCUMENTATION_COLOR" value="272730" />
         <option name="DOC_COMMENT_GUIDE" value="343440" />
         <option name="DOC_COMMENT_LINK" value="AACEFA" />
         <option name="ERROR_HINT" value="513434" />
@@ -33,7 +33,7 @@
         <option name="FILESTATUS_addedOutside" value="73BD79" />
         <option name="FILESTATUS_changelistConflict" value="DE6A66" />
         <option name="FILESTATUS_modifiedOutside" value="70AEFF" />
-        <option name="FOLDED_TEXT_BORDER_COLOR" value="282832" />
+        <option name="FOLDED_TEXT_BORDER_COLOR" value="272730" />
         <option name="HINT_BORDER" value="494957" />
         <option name="HTML_TAG_TREE_LEVEL0" value="5A3D5A" />
         <option name="HTML_TAG_TREE_LEVEL1" value="50456A" />
@@ -45,30 +45,30 @@
         <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="494957" />
         <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="2F3E4F" />
         <option name="INDENT_GUIDE" value="343440" />
-        <option name="INFORMATION_HINT" value="282832" />
+        <option name="INFORMATION_HINT" value="272730" />
         <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="343440" />
         <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="343440" />
         <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="343440" />
-        <option name="LINE_NUMBERS_COLOR" value="88889A" />
+        <option name="LINE_NUMBERS_COLOR" value="88889B" />
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="B6B6CA" />
-        <option name="LOOKUP_COLOR" value="282832" />
+        <option name="LOOKUP_COLOR" value="272730" />
         <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="494957" />
         <option name="METHOD_SEPARATORS_COLOR" value="494957" />
         <option name="MODIFIED_LINES_COLOR" value="2F3E4F" />
         <option name="MODIFIED_TAB_ICON" value="AACEFA" />
-        <option name="NOTIFICATION_BACKGROUND" value="282832" />
+        <option name="NOTIFICATION_BACKGROUND" value="272730" />
         <option name="PERCENT_BAR_COVERED_KEY" value="314E3C" />
         <option name="PERCENT_BAR_UNCOVERED_KEY" value="2F3E4F" />
         <option name="PROMOTION_PANE" value="2F3E4F" />
         <option name="QUESTION_HINT" value="2F3E4F" />
-        <option name="RECENT_LOCATIONS_SELECTION" value="282832" />
+        <option name="RECENT_LOCATIONS_SELECTION" value="272730" />
         <option name="RIGHT_MARGIN_COLOR" value="343440" />
         <option name="SELECTED_INDENT_GUIDE" value="494957" />
-        <option name="SELECTED_TEARLINE_COLOR" value="88889A" />
+        <option name="SELECTED_TEARLINE_COLOR" value="88889B" />
         <option name="SELECTION_BACKGROUND" value="343440" />
         <option name="ScrollBar.Mac.hoverThumbColor" value="FFFFFF4D" />
         <option name="ScrollBar.Mac.thumbColor" value="FFFFFF26" />
-        <option name="ScrollBar.hoverThumbColor" value="88889A" />
+        <option name="ScrollBar.hoverThumbColor" value="88889B" />
         <option name="ScrollBar.thumbColor" value="494957" />
         <option name="TEARLINE_COLOR" value="494957" />
         <option name="VCS_ANNOTATIONS_COLOR_1" value="5A3D5A" />
@@ -107,7 +107,7 @@
         <option name="BREADCRUMBS_CURRENT">
             <value>
                 <option name="FOREGROUND" value="EAEAFF" />
-                <option name="BACKGROUND" value="1F1F26" />
+                <option name="BACKGROUND" value="1A1A21" />
             </value>
         </option>
         <option name="BREADCRUMBS_DEFAULT">
@@ -118,12 +118,12 @@
         <option name="BREADCRUMBS_HOVERED">
             <value>
                 <option name="FOREGROUND" value="EAEAFF" />
-                <option name="BACKGROUND" value="1F1F26" />
+                <option name="BACKGROUND" value="1A1A21" />
             </value>
         </option>
         <option name="BREADCRUMBS_INACTIVE">
             <value>
-                <option name="FOREGROUND" value="88889A" />
+                <option name="FOREGROUND" value="88889B" />
             </value>
         </option>
         <option name="BREAKPOINT_ATTRIBUTES">
@@ -134,7 +134,7 @@
         </option>
         <option name="CODE_LENS_BORDER_COLOR">
             <value>
-                <option name="EFFECT_COLOR" value="88889A" />
+                <option name="EFFECT_COLOR" value="88889B" />
             </value>
         </option>
         <option name="CODE_VISION_DEFAULT">
@@ -150,7 +150,7 @@
         <option name="CONSOLE_BLACK_OUTPUT">
             <value>
                 <option name="FOREGROUND" value="343440" />
-                <option name="BACKGROUND" value="1F1F26" />
+                <option name="BACKGROUND" value="1A1A21" />
             </value>
         </option>
         <option name="CONSOLE_BLUE_BRIGHT_OUTPUT" baseAttributes="CONSOLE_BLUE_OUTPUT" />
@@ -175,7 +175,7 @@
         </option>
         <option name="CONSOLE_GRAY_OUTPUT">
             <value>
-                <option name="FOREGROUND" value="88889A" />
+                <option name="FOREGROUND" value="88889B" />
                 <option name="BACKGROUND" value="494957" />
             </value>
         </option>
@@ -224,7 +224,7 @@
         <option name="CONSOLE_WHITE_OUTPUT">
             <value>
                 <option name="FOREGROUND" value="EAEAFF" />
-                <option name="BACKGROUND" value="88889A" />
+                <option name="BACKGROUND" value="88889B" />
             </value>
         </option>
         <option name="CONSOLE_YELLOW_BRIGHT_OUTPUT" baseAttributes="CONSOLE_YELLOW_OUTPUT" />
@@ -447,7 +447,7 @@
         </option>
         <option name="DEFAULT_HIGHLIGHTED_REFERENCE">
             <value>
-                <option name="EFFECT_COLOR" value="88889A" />
+                <option name="EFFECT_COLOR" value="88889B" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
@@ -561,7 +561,7 @@
         </option>
         <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
             <value>
-                <option name="BACKGROUND" value="1F1F26" />
+                <option name="BACKGROUND" value="1A1A21" />
             </value>
         </option>
         <option name="DEFAULT_VALID_STRING_ESCAPE">
@@ -609,14 +609,14 @@
         <option name="DOC_CODE_BLOCK">
             <value>
                 <option name="FOREGROUND" value="B6B6CA" />
-                <option name="BACKGROUND" value="282832" />
+                <option name="BACKGROUND" value="272730" />
                 <option name="EFFECT_COLOR" value="343440" />
             </value>
         </option>
         <option name="DOC_CODE_INLINE">
             <value>
                 <option name="FOREGROUND" value="B6B6CA" />
-                <option name="BACKGROUND" value="24242D" />
+                <option name="BACKGROUND" value="202028" />
             </value>
         </option>
         <option name="DOC_TIPS_SHORTCUT">
@@ -649,7 +649,7 @@
         </option>
         <option name="FOLDED_TEXT_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="88889A" />
+                <option name="FOREGROUND" value="88889B" />
                 <option name="BACKGROUND" value="343440" />
             </value>
         </option>
@@ -732,7 +732,7 @@
         </option>
         <option name="GIT_TOOLBOX.EDITOR_INLINE_BLAME_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="88889A" />
+                <option name="FOREGROUND" value="88889B" />
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
@@ -817,7 +817,7 @@
         </option>
         <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="1F1F26" />
+                <option name="BACKGROUND" value="1A1A21" />
                 <option name="ERROR_STRIPE_COLOR" value="EAEAFF" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
@@ -829,7 +829,7 @@
         </option>
         <option name="INACTIVE_HYPERLINK_ATTRIBUTES">
             <value>
-                <option name="EFFECT_COLOR" value="88889A" />
+                <option name="EFFECT_COLOR" value="88889B" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
@@ -841,7 +841,7 @@
         </option>
         <option name="INJECTED_LANGUAGE_FRAGMENT">
             <value>
-                <option name="BACKGROUND" value="1F1F26" />
+                <option name="BACKGROUND" value="1A1A21" />
             </value>
         </option>
         <option name="INLAY_BUTTON_DEFAULT">
@@ -870,7 +870,7 @@
         </option>
         <option name="INLAY_TEXT_WITHOUT_BACKGROUND">
             <value>
-                <option name="FOREGROUND" value="88889A" />
+                <option name="FOREGROUND" value="88889B" />
             </value>
         </option>
         <option name="INLINE_PARAMETER_HINT">
@@ -986,7 +986,7 @@
         </option>
         <option name="LIVE_TEMPLATE_INACTIVE_SEGMENT">
             <value>
-                <option name="EFFECT_COLOR" value="88889A" />
+                <option name="EFFECT_COLOR" value="88889B" />
             </value>
         </option>
         <option name="LOG_DEBUG_OUTPUT">
@@ -1001,7 +1001,7 @@
         </option>
         <option name="LOG_EXPIRED_ENTRY">
             <value>
-                <option name="FOREGROUND" value="88889A" />
+                <option name="FOREGROUND" value="88889B" />
             </value>
         </option>
         <option name="LOG_INFO_OUTPUT">
@@ -1082,7 +1082,7 @@
         </option>
         <option name="MATCHED_BRACE_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="1F1F26" />
+                <option name="BACKGROUND" value="1A1A21" />
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
@@ -1094,7 +1094,7 @@
         </option>
         <option name="NOT_USED_ELEMENT_ATTRIBUTES">
             <value>
-                <option name="FOREGROUND" value="88889A" />
+                <option name="FOREGROUND" value="88889B" />
             </value>
         </option>
         <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
@@ -1124,7 +1124,7 @@
         <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
         <option name="REGEXP.REDUNDANT_ESCAPE">
             <value>
-                <option name="FOREGROUND" value="88889A" />
+                <option name="FOREGROUND" value="88889B" />
             </value>
         </option>
         <option name="REGEXP_MATCHED_GROUPS">
@@ -1366,7 +1366,7 @@
         <option name="TEXT">
             <value>
                 <option name="FOREGROUND" value="EAEAFF" />
-                <option name="BACKGROUND" value="282832" />
+                <option name="BACKGROUND" value="272730" />
             </value>
         </option>
         <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
