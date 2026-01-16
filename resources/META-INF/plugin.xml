@@ -12,20 +12,18 @@ Clean modern dark themes for JetBrains IDEs using the new Islands Theme style.
 <ul>
     <li>Palebloom - A faded pastel dark theme</li>
     <li>Mossglade - A soft blue-green dark theme</li>
+    <li>Night variants - All themes come with a darker background variant</li
 </ul>
 
-For more information visit the <a href="https://www.palebloomtheme.com">website</a>.
+<br>For more information visit the <a href="https://www.palebloomtheme.com">website</a>.
 ]]></description>
     <change-notes><![CDATA[
 Recent changes:
 
 <ul>
-    <li>Fixed theme ids so they won't reset on updates</li>
-    <li>Fixed Blazor support</li>
-    <li>Improved contrast in Mossglade</li>
+    <li>Added darker night variants for themes</li>
+    <li>Fixed some contrast issues and missed styles</li>
 </ul>
-
-For more information visit the <a href="https://www.palebloomtheme.com">website</a>.
 ]]></change-notes>
 
     <idea-version since-build="251"/>
