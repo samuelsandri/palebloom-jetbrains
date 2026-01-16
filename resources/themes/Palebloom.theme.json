@@ -24,12 +24,12 @@
     "secondaryFill": "#42452C",
     "tertiaryFill": "#2F3E4F",
 
-    "pink": "#FFCFFE",
+    "pink": "#F4C8D7",
     "purple": "#CDBBFF",
     "blue": "#AACEFA",
-    "cyan": "#BCEDF9",
+    "cyan": "#B8F1F9",
     "green": "#B9E1C6",
-    "yellow": "#F0FFBA",
+    "yellow": "#F7FBC6",
     "orange": "#F7D3B7",
     "red": "#FFA1B1",
 
@@ -61,7 +61,7 @@
       "Actions.GreyInline": "#494957",
       "Actions.GreyInline.Dark": "#494957",
       "Actions.Red": "#FFA1B1",
-      "Actions.Yellow": "#F0FFBA",
+      "Actions.Yellow": "#F7FBC6",
       "Checkbox.Background.Selected.Dark": "#CDBBFF",
       "Checkbox.Background.Default.Dark": "#24242D",
       "Checkbox.Border.Selected.Dark": "#CDBBFF",
@@ -71,11 +71,11 @@
       "Objects.Green": "#B9E1C6",
       "Objects.GreenAndroid": "#a3be8c",
       "Objects.Grey": "#494957",
-      "Objects.Pink": "#FFCFFE",
+      "Objects.Pink": "#F4C8D7",
       "Objects.Purple": "#CDBBFF",
       "Objects.Red": "#FFA1B1",
       "Objects.RedStatus": "#FFA1B1",
-      "Objects.Yellow": "#F0FFBA",
+      "Objects.Yellow": "#F7FBC6",
       "Objects.YellowDark": "#F7D3B7"
     }
   },
