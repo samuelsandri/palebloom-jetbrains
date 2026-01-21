@@ -65,7 +65,7 @@
         <option name="RIGHT_MARGIN_COLOR" value="343440" />
         <option name="SELECTED_INDENT_GUIDE" value="494957" />
         <option name="SELECTED_TEARLINE_COLOR" value="88889B" />
-        <option name="SELECTION_BACKGROUND" value="343440" />
+        <option name="SELECTION_BACKGROUND" value="494957" />
         <option name="ScrollBar.Mac.hoverThumbColor" value="FFFFFF4D" />
         <option name="ScrollBar.Mac.thumbColor" value="FFFFFF26" />
         <option name="ScrollBar.hoverThumbColor" value="88889B" />
@@ -253,7 +253,7 @@
         </option>
         <option name="CSS.CLASS_NAME">
             <value>
-                <option name="FOREGROUND" value="AACEFA" />
+                <option name="FOREGROUND" value="F7FBC6" />
             </value>
         </option>
         <option name="CSS.COLOR">
@@ -817,7 +817,7 @@
         </option>
         <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="1A1A21" />
+                <option name="BACKGROUND" value="343440" />
                 <option name="ERROR_STRIPE_COLOR" value="EAEAFF" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
