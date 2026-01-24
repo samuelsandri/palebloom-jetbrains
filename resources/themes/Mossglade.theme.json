@@ -128,7 +128,7 @@
       }
     },
     "CheckBox": {
-      "background": "transparent"
+      "background": "background"
     },
     "ComboBox": {
       "nonEditableBackground": "input",
