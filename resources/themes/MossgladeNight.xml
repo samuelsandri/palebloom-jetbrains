@@ -49,6 +49,13 @@
         <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="21292C" />
         <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="21292C" />
         <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="21292C" />
+        <option name="JUPYTER.CARET_ROW_COLOR" value="0F1315" />
+        <option name="JUPYTER.CELL_STRIPE_SELECTED_COLOR" value="B8F1F9" />
+        <option name="JUPYTER.CODE_CELL_BACKGROUND" value="131719" />
+        <option name="JUPYTER.EDITOR_BACKGROUND" value="" />
+        <option name="JUPYTER.GUTTER_INPUT_EXECUTION_COUNT" value="B8F1F9" />
+        <option name="JUPYTER.GUTTER_OUTPUT_EXECUTION_COUNT" value="F7D3B7" />
+        <option name="JUPYTER.PROGRESS_STATUS_RUNNING_COLOR" value="B8F1F9" />
         <option name="LINE_NUMBERS_COLOR" value="7F9698" />
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="CBD7D6" />
         <option name="LOOKUP_COLOR" value="171B1E" />
@@ -1168,9 +1175,41 @@
         </option>
         <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
         <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+        <option name="PY.ANNOTATION">
+            <value>
+                <option name="FOREGROUND" value="BFC8FD" />
+            </value>
+        </option>
+        <option name="PY.BUILTIN_NAME" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
+        <option name="PY.KEYWORD_ARGUMENT" baseAttributes="DEFAULT_PARAMETER" />
+        <option name="PY.PREDEFINED_DEFINITION">
+            <value>
+                <option name="FOREGROUND" value="C3FFAB" />
+                <option name="FONT_TYPE" value="2" />
+            </value>
+        </option>
+        <option name="PY.PREDEFINED_USAGE">
+            <value>
+                <option name="FOREGROUND" value="C3FFAB" />
+                <option name="FONT_TYPE" value="2" />
+            </value>
+        </option>
+        <option name="PY.SELF_PARAMETER">
+            <value>
+                <option name="FOREGROUND" value="B8F1F9" />
+                <option name="FONT_TYPE" value="2" />
+            </value>
+        </option>
+        <option name="PY.STRING.B" baseAttributes="DEFAULT_STRING" />
+        <option name="PY.TYPE_PARAMETER">
+            <value>
+                <option name="FOREGROUND" value="BFC8FD" />
+                <option name="FONT_TYPE" value="2" />
+            </value>
+        </option>
         <option name="QUTE_BACKGROUND">
             <value>
-                <option name="BACKGROUND" value="27292b" />
+                <option name="BACKGROUND" value="171B1E" />
             </value>
         </option>
         <option name="REGEXP.BRACES" baseAttributes="DEFAULT_BRACES" />
