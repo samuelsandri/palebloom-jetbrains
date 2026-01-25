@@ -899,6 +899,11 @@
         <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
         <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
         <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
+        <option name="IntelliJComposableCallTextAttributes">
+            <value>
+                <option name="FOREGROUND" value="B3F4D6" />
+            </value>
+        </option>
         <option name="JSP_DIRECTIVE_NAME">
             <value>
                 <option name="FOREGROUND" value="cf8e6d" />
@@ -987,6 +992,36 @@
         <option name="LIVE_TEMPLATE_INACTIVE_SEGMENT">
             <value>
                 <option name="EFFECT_COLOR" value="7F9698" />
+            </value>
+        </option>
+        <option name="LOGCAT_V2_MESSAGE_ASSERT">
+            <value>
+                <option name="FOREGROUND" value="FFA1B1" />
+            </value>
+        </option>
+        <option name="LOGCAT_V2_MESSAGE_DEBUG">
+            <value>
+                <option name="FOREGROUND" value="B8F1F9" />
+            </value>
+        </option>
+        <option name="LOGCAT_V2_MESSAGE_ERROR">
+            <value>
+                <option name="FOREGROUND" value="FFA1B1" />
+            </value>
+        </option>
+        <option name="LOGCAT_V2_MESSAGE_INFO">
+            <value>
+                <option name="FOREGROUND" value="C3FFAB" />
+            </value>
+        </option>
+        <option name="LOGCAT_V2_MESSAGE_VERBOSE">
+            <value>
+                <option name="FOREGROUND" value="CBD7D6" />
+            </value>
+        </option>
+        <option name="LOGCAT_V2_MESSAGE_WARNING">
+            <value>
+                <option name="FOREGROUND" value="F7FBC6" />
             </value>
         </option>
         <option name="LOG_DEBUG_OUTPUT">
@@ -1095,6 +1130,34 @@
         <option name="NOT_USED_ELEMENT_ATTRIBUTES">
             <value>
                 <option name="FOREGROUND" value="7F9698" />
+            </value>
+        </option>
+        <option name="OC.CONDITIONALLY_NOT_COMPILED">
+            <value />
+        </option>
+        <option name="OC.MACRONAME">
+            <value>
+                <option name="FOREGROUND" value="F7D3B7" />
+            </value>
+        </option>
+        <option name="OC.OVERLOADED_OPERATOR">
+            <value>
+                <option name="FOREGROUND" value="C3FFAB" />
+            </value>
+        </option>
+        <option name="OC.STRUCT_FIELD">
+            <value>
+                <option name="FOREGROUND" value="F7FBC6" />
+            </value>
+        </option>
+        <option name="OC.STRUCT_LIKE">
+            <value>
+                <option name="FOREGROUND" value="BFC8FD" />
+            </value>
+        </option>
+        <option name="OC.TYPEDEF">
+            <value>
+                <option name="FOREGROUND" value="B3F4D6" />
             </value>
         </option>
         <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
@@ -1526,6 +1589,11 @@
         <option name="YAML_ANCHOR">
             <value>
                 <option name="FOREGROUND" value="F4C8D7" />
+            </value>
+        </option>
+        <option name="com.jetbrains.cmake.COMMAND">
+            <value>
+                <option name="FOREGROUND" value="C3FFAB" />
             </value>
         </option>
         <option name="dotCover.HIGHLIGHTER_COVERED">
