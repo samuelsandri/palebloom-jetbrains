@@ -3,7 +3,7 @@
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
     <id>com.palebloom.jetbrains</id>
     <name>Palebloom Theme</name>
-    <version>1.2.1</version>
+    <version>1.2.2</version>
     <vendor url="https://www.palebloomtheme.com">Palebloom</vendor>
     <category>UI</category>
     <description><![CDATA[
@@ -21,8 +21,9 @@ Clean modern dark themes for JetBrains IDEs using the new Islands Theme style.
 Recent changes:
 
 <ul>
-    <li>Fixed selection and focus backgrounds</li>
-    <li>Improved Mossglade comment contrast</li>
+    <li>Fixed checkbox background</li>
+    <li>Fixed error/warning/hint colors in Mossglade</li>
+    <li>Fixed colors for C++ and Python</li>
 </ul>
 ]]></change-notes>
 
