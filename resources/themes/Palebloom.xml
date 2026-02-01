@@ -106,6 +106,11 @@
                 <option name="FOREGROUND" value="cdbbff" />
             </value>
         </option>
+        <option name="BLADE_TEXT_BLOCK_BOUNDARY">
+            <value>
+                <option name="FOREGROUND" value="cdbbff" />
+            </value>
+        </option>
         <option name="BOOKMARKS_ATTRIBUTES">
             <value>
                 <option name="ERROR_STRIPE_COLOR" value="f7fbc6" />
@@ -567,9 +572,7 @@
             </value>
         </option>
         <option name="DEFAULT_TEMPLATE_LANGUAGE_COLOR">
-            <value>
-                <option name="BACKGROUND" value="1a1a21" />
-            </value>
+            <value />
         </option>
         <option name="DEFAULT_VALID_STRING_ESCAPE">
             <value>
@@ -626,12 +629,21 @@
                 <option name="BACKGROUND" value="202028" />
             </value>
         </option>
+        <option name="DOC_TEMPLATE_PARAMETER">
+            <value>
+                <option name="FOREGROUND" value="b9e1c6" />
+            </value>
+        </option>
         <option name="DOC_TIPS_SHORTCUT">
             <value>
                 <option name="FOREGROUND" value="eaeaff" />
                 <option name="EFFECT_COLOR" value="343440" />
             </value>
         </option>
+        <option name="DQL_EXPR">
+            <value />
+        </option>
+        <option name="DQL_PLACEHOLDER" baseAttributes="DEFAULT_PARAMETER" />
         <option name="DUPLICATE_FROM_SERVER">
             <value>
                 <option name="BACKGROUND" value="3c3d29" />
@@ -847,9 +859,7 @@
             </value>
         </option>
         <option name="INJECTED_LANGUAGE_FRAGMENT">
-            <value>
-                <option name="BACKGROUND" value="1a1a21" />
-            </value>
+            <value />
         </option>
         <option name="INLAY_BUTTON_DEFAULT">
             <value>
@@ -1128,6 +1138,21 @@
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
+        <option name="NG.BLOCK_BRACES">
+            <value>
+                <option name="FOREGROUND" value="cdbbff" />
+            </value>
+        </option>
+        <option name="NG.EXPANSION_FORM_DELIMITERS">
+            <value>
+                <option name="FOREGROUND" value="cdbbff" />
+            </value>
+        </option>
+        <option name="NG.SCRIPT_DELIMITERS">
+            <value>
+                <option name="FOREGROUND" value="cdbbff" />
+            </value>
+        </option>
         <option name="NG.SIGNAL" baseAttributes="TS.INSTANCE_MEMBER_FUNCTION" />
         <option name="NOT_TOP_FRAME_ATTRIBUTES">
             <value>
@@ -1167,6 +1192,16 @@
                 <option name="FOREGROUND" value="b9e1c6" />
             </value>
         </option>
+        <option name="PHP_ALIAS_REFERENCE" baseAttributes="PHP_CLASS" />
+        <option name="PHP_CONSTANT" baseAttributes="DEFAULT_CONSTANT" />
+        <option name="PHP_EXEC_COMMAND_ID" baseAttributes="DEFAULT_STRING" />
+        <option name="PHP_NAMED_ARGUMENT">
+            <value>
+                <option name="FOREGROUND" value="f7d3b7" />
+            </value>
+        </option>
+        <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+        <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
         <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
         <option name="PROPERTIES.KEY">
             <value>
@@ -1445,6 +1480,11 @@
                 <option name="ERROR_STRIPE_COLOR" value="b9e1c6" />
             </value>
         </option>
+        <option name="SMARTY_BRACKETS">
+            <value>
+                <option name="FOREGROUND" value="cdbbff" />
+            </value>
+        </option>
         <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
         <option name="SUGGESTION">
             <value>
@@ -1503,6 +1543,11 @@
                 <option name="ERROR_STRIPE_COLOR" value="ffa1b1" />
             </value>
         </option>
+        <option name="TS.TYPE_PARAMETER">
+            <value>
+                <option name="FOREGROUND" value="b9e1c6" />
+            </value>
+        </option>
         <option name="TSCN_MEMBER_REF" baseAttributes="DEFAULT_FUNCTION_CALL" />
         <option name="TSCN_NODE_RESOURCE" baseAttributes="DEFAULT_CONSTANT" />
         <option name="TSCN_NODE_TYPE">
@@ -1514,6 +1559,11 @@
         <option name="TSCN_SYNTAX_TOKENS">
             <value>
                 <option name="FOREGROUND" value="eaeaff" />
+            </value>
+        </option>
+        <option name="TWIG_BRACKETS">
+            <value>
+                <option name="FOREGROUND" value="cdbbff" />
             </value>
         </option>
         <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
