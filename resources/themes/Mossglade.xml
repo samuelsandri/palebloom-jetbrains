@@ -1833,5 +1833,115 @@
                 <option name="BACKGROUND" value="f7fbc6" />
             </value>
         </option>
+        <option name="org.rust.ASSOC_FUNCTION_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
+        <option name="org.rust.ASSOC_TRAIT_FUNCTION_CALL" baseAttributes="org.rust.ASSOC_FUNCTION_CALL" />
+        <option name="org.rust.CFG_DISABLED_CODE">
+            <value>
+                <option name="FOREGROUND" value="7f9698" />
+            </value>
+        </option>
+        <option name="org.rust.CRATE" baseAttributes="DEFAULT_IDENTIFIER" />
+        <option name="org.rust.ENUM">
+            <value>
+                <option name="FOREGROUND" value="f7d3b7" />
+                <option name="FONT_TYPE" value="2" />
+            </value>
+        </option>
+        <option name="org.rust.ENUM_VARIANT">
+            <value>
+                <option name="FOREGROUND" value="f7d3b7" />
+                <option name="FONT_TYPE" value="2" />
+            </value>
+        </option>
+        <option name="org.rust.FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
+        <option name="org.rust.GENERATED_ITEM">
+            <value>
+                <option name="FOREGROUND" value="f7d3b7" />
+            </value>
+        </option>
+        <option name="org.rust.INLINE_ERROR_DESCRIPTION">
+            <value>
+                <option name="FOREGROUND" value="ffa1b1" />
+                <option name="FONT_TYPE" value="2" />
+            </value>
+        </option>
+        <option name="org.rust.INLINE_EXPLANATION">
+            <value>
+                <option name="FOREGROUND" value="b8f1f9" />
+                <option name="FONT_TYPE" value="2" />
+            </value>
+        </option>
+        <option name="org.rust.INLINE_WARNING_DESCRIPTION">
+            <value>
+                <option name="FOREGROUND" value="f7d3b7" />
+                <option name="FONT_TYPE" value="2" />
+            </value>
+        </option>
+        <option name="org.rust.LIFETIME">
+            <value>
+                <option name="FOREGROUND" value="b3f4d6" />
+                <option name="FONT_TYPE" value="2" />
+            </value>
+        </option>
+        <option name="org.rust.MACRO">
+            <value>
+                <option name="FOREGROUND" value="f7d3b7" />
+                <option name="FONT_TYPE" value="2" />
+            </value>
+        </option>
+        <option name="org.rust.MACRO_IDENTIFIER">
+            <value>
+                <option name="FOREGROUND" value="f7d3b7" />
+            </value>
+        </option>
+        <option name="org.rust.METHOD_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
+        <option name="org.rust.MUT_SELF_PARAMETER">
+            <value>
+                <option name="FOREGROUND" value="b8f1f9" />
+                <option name="FONT_TYPE" value="2" />
+                <option name="EFFECT_COLOR" value="b8f1f9" />
+                <option name="EFFECT_TYPE" value="1" />
+            </value>
+        </option>
+        <option name="org.rust.Q_OPERATOR">
+            <value>
+                <option name="FOREGROUND" value="f4f6f6" />
+            </value>
+        </option>
+        <option name="org.rust.SELF_EXPRESSION" baseAttributes="DEFAULT_KEYWORD" />
+        <option name="org.rust.SELF_PARAMETER" baseAttributes="DEFAULT_KEYWORD" />
+        <option name="org.rust.STATIC">
+            <value>
+                <option name="FOREGROUND" value="f7fbc6" />
+                <option name="FONT_TYPE" value="2" />
+            </value>
+        </option>
+        <option name="org.rust.STRUCT" baseAttributes="DEFAULT_CLASS_NAME" />
+        <option name="org.rust.TRAIT" baseAttributes="DEFAULT_INTERFACE_NAME" />
+        <option name="org.rust.TRAIT_METHOD">
+            <value>
+                <option name="FOREGROUND" value="c3ffab" />
+                <option name="FONT_TYPE" value="2" />
+            </value>
+        </option>
+        <option name="org.rust.TRAIT_METHOD_CALL">
+            <value>
+                <option name="FOREGROUND" value="c3ffab" />
+                <option name="FONT_TYPE" value="2" />
+            </value>
+        </option>
+        <option name="org.rust.TYPE_ALIAS" baseAttributes="DEFAULT_CLASS_NAME" />
+        <option name="org.rust.TYPE_PARAMETER">
+            <value>
+                <option name="FOREGROUND" value="b3f4d6" />
+                <option name="FONT_TYPE" value="2" />
+            </value>
+        </option>
+        <option name="org.rust.UNION" baseAttributes="DEFAULT_CLASS_NAME" />
+        <option name="org.rust.UNSAFE_CODE">
+            <value>
+                <option name="BACKGROUND" value="3d3229" />
+            </value>
+        </option>
     </attributes>
 </scheme>
