@@ -4,7 +4,7 @@
         <property name="ideVersion">2025.2.5.0.0</property>
     </metaInfo>
     <colors>
-        <option name="ADDED_LINES_COLOR" value="293D2F" />
+        <option name="ADDED_LINES_COLOR" value="293d2f" />
         <option name="ANNOTATIONS_COLOR" value="b6b6ca" />
         <option name="ANNOTATIONS_LAST_COMMIT_COLOR" value="eaeaff" />
         <option name="CARET_COLOR" value="eaeaff" />
@@ -15,7 +15,7 @@
         <option name="DOCUMENTATION_COLOR" value="272730" />
         <option name="DOC_COMMENT_GUIDE" value="343440" />
         <option name="DOC_COMMENT_LINK" value="aacefa" />
-        <option name="ERROR_HINT" value="3D292C" />
+        <option name="ERROR_HINT" value="3d292c" />
         <option name="FILESTATUS_ADDED" value="73BD79" />
         <option name="FILESTATUS_COPIED" value="73BD79" />
         <option name="FILESTATUS_DELETED" value="6F737A" />
@@ -35,15 +35,15 @@
         <option name="FILESTATUS_modifiedOutside" value="70AEFF" />
         <option name="FOLDED_TEXT_BORDER_COLOR" value="272730" />
         <option name="HINT_BORDER" value="494957" />
-        <option name="HTML_TAG_TREE_LEVEL0" value="3D2930" />
-        <option name="HTML_TAG_TREE_LEVEL1" value="2E293D" />
-        <option name="HTML_TAG_TREE_LEVEL2" value="29323D" />
-        <option name="HTML_TAG_TREE_LEVEL3" value="293D2F" />
-        <option name="HTML_TAG_TREE_LEVEL4" value="3C3D29" />
-        <option name="HTML_TAG_TREE_LEVEL5" value="3D3229" />
-        <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="293D2F" />
+        <option name="HTML_TAG_TREE_LEVEL0" value="3d2930" />
+        <option name="HTML_TAG_TREE_LEVEL1" value="2e293d" />
+        <option name="HTML_TAG_TREE_LEVEL2" value="29323d" />
+        <option name="HTML_TAG_TREE_LEVEL3" value="293d2f" />
+        <option name="HTML_TAG_TREE_LEVEL4" value="3c3d29" />
+        <option name="HTML_TAG_TREE_LEVEL5" value="3d3229" />
+        <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="293d2f" />
         <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="494957" />
-        <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="29323D" />
+        <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="29323d" />
         <option name="INDENT_GUIDE" value="343440" />
         <option name="INFORMATION_HINT" value="272730" />
         <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="343440" />
@@ -61,13 +61,13 @@
         <option name="LOOKUP_COLOR" value="272730" />
         <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="494957" />
         <option name="METHOD_SEPARATORS_COLOR" value="494957" />
-        <option name="MODIFIED_LINES_COLOR" value="29323D" />
+        <option name="MODIFIED_LINES_COLOR" value="29323d" />
         <option name="MODIFIED_TAB_ICON" value="aacefa" />
         <option name="NOTIFICATION_BACKGROUND" value="272730" />
-        <option name="PERCENT_BAR_COVERED_KEY" value="293D2F" />
-        <option name="PERCENT_BAR_UNCOVERED_KEY" value="29323D" />
-        <option name="PROMOTION_PANE" value="29323D" />
-        <option name="QUESTION_HINT" value="29323D" />
+        <option name="PERCENT_BAR_COVERED_KEY" value="293d2f" />
+        <option name="PERCENT_BAR_UNCOVERED_KEY" value="29323d" />
+        <option name="PROMOTION_PANE" value="29323d" />
+        <option name="QUESTION_HINT" value="29323d" />
         <option name="RECENT_LOCATIONS_SELECTION" value="272730" />
         <option name="RIGHT_MARGIN_COLOR" value="343440" />
         <option name="SELECTED_INDENT_GUIDE" value="494957" />
@@ -78,15 +78,15 @@
         <option name="ScrollBar.hoverThumbColor" value="88889b" />
         <option name="ScrollBar.thumbColor" value="494957" />
         <option name="TEARLINE_COLOR" value="494957" />
-        <option name="VCS_ANNOTATIONS_COLOR_1" value="3D2930" />
-        <option name="VCS_ANNOTATIONS_COLOR_2" value="2E293D" />
-        <option name="VCS_ANNOTATIONS_COLOR_3" value="29323D" />
-        <option name="VCS_ANNOTATIONS_COLOR_4" value="293D2F" />
-        <option name="VCS_ANNOTATIONS_COLOR_5" value="3C3D29" />
+        <option name="VCS_ANNOTATIONS_COLOR_1" value="3d2930" />
+        <option name="VCS_ANNOTATIONS_COLOR_2" value="2e293d" />
+        <option name="VCS_ANNOTATIONS_COLOR_3" value="29323d" />
+        <option name="VCS_ANNOTATIONS_COLOR_4" value="293d2f" />
+        <option name="VCS_ANNOTATIONS_COLOR_5" value="3c3d29" />
         <option name="VISUAL_INDENT_GUIDE" value="343440" />
-        <option name="WARNING_HINT" value="3D3229" />
+        <option name="WARNING_HINT" value="3d3229" />
         <option name="WHITESPACES" value="494957" />
-        <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="3D3229" />
+        <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="3d3229" />
     </colors>
     <attributes>
         <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
@@ -135,7 +135,7 @@
         </option>
         <option name="BREAKPOINT_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="3D292C" />
+                <option name="BACKGROUND" value="3d292c" />
                 <option name="ERROR_STRIPE_COLOR" value="ffa1b1" />
             </value>
         </option>
@@ -164,14 +164,14 @@
         <option name="CONSOLE_BLUE_OUTPUT">
             <value>
                 <option name="FOREGROUND" value="aacefa" />
-                <option name="BACKGROUND" value="29323D" />
+                <option name="BACKGROUND" value="29323d" />
             </value>
         </option>
         <option name="CONSOLE_CYAN_BRIGHT_OUTPUT" baseAttributes="CONSOLE_CYAN_OUTPUT" />
         <option name="CONSOLE_CYAN_OUTPUT">
             <value>
                 <option name="FOREGROUND" value="b8f1f9" />
-                <option name="BACKGROUND" value="293B3D" />
+                <option name="BACKGROUND" value="293b3d" />
             </value>
         </option>
         <option name="CONSOLE_DARKGRAY_OUTPUT" baseAttributes="CONSOLE_GRAY_OUTPUT" />
@@ -190,14 +190,14 @@
         <option name="CONSOLE_GREEN_OUTPUT">
             <value>
                 <option name="FOREGROUND" value="b9e1c6" />
-                <option name="BACKGROUND" value="293D2F" />
+                <option name="BACKGROUND" value="293d2f" />
             </value>
         </option>
         <option name="CONSOLE_MAGENTA_BRIGHT_OUTPUT" baseAttributes="CONSOLE_MAGENTA_OUTPUT" />
         <option name="CONSOLE_MAGENTA_OUTPUT">
             <value>
                 <option name="FOREGROUND" value="cdbbff" />
-                <option name="BACKGROUND" value="2E293D" />
+                <option name="BACKGROUND" value="2e293d" />
             </value>
         </option>
         <option name="CONSOLE_NORMAL_OUTPUT">
@@ -214,7 +214,7 @@
         <option name="CONSOLE_RED_OUTPUT">
             <value>
                 <option name="FOREGROUND" value="ffa1b1" />
-                <option name="BACKGROUND" value="3D292C" />
+                <option name="BACKGROUND" value="3d292c" />
             </value>
         </option>
         <option name="CONSOLE_SYSTEM_OUTPUT">
@@ -238,7 +238,7 @@
         <option name="CONSOLE_YELLOW_OUTPUT">
             <value>
                 <option name="FOREGROUND" value="f7fbc6" />
-                <option name="BACKGROUND" value="3C3D29" />
+                <option name="BACKGROUND" value="3c3d29" />
             </value>
         </option>
         <option name="CONSTRUCTOR_CALL_ATTRIBUTES">
@@ -578,7 +578,7 @@
         </option>
         <option name="DELETED_TEXT_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="3D292C" />
+                <option name="BACKGROUND" value="3d292c" />
                 <option name="EFFECT_COLOR" value="ffa1b1" />
                 <option name="EFFECT_TYPE" value="3" />
             </value>
@@ -591,26 +591,26 @@
         </option>
         <option name="DIFF_CONFLICT">
             <value>
-                <option name="BACKGROUND" value="3D3229" />
-                <option name="ERROR_STRIPE_COLOR" value="3D3229" />
+                <option name="BACKGROUND" value="3d3229" />
+                <option name="ERROR_STRIPE_COLOR" value="3d3229" />
             </value>
         </option>
         <option name="DIFF_DELETED">
             <value>
-                <option name="BACKGROUND" value="3D292C" />
-                <option name="ERROR_STRIPE_COLOR" value="3D292C" />
+                <option name="BACKGROUND" value="3d292c" />
+                <option name="ERROR_STRIPE_COLOR" value="3d292c" />
             </value>
         </option>
         <option name="DIFF_INSERTED">
             <value>
-                <option name="BACKGROUND" value="293D2F" />
-                <option name="ERROR_STRIPE_COLOR" value="293D2F" />
+                <option name="BACKGROUND" value="293d2f" />
+                <option name="ERROR_STRIPE_COLOR" value="293d2f" />
             </value>
         </option>
         <option name="DIFF_MODIFIED">
             <value>
-                <option name="BACKGROUND" value="29323D" />
-                <option name="ERROR_STRIPE_COLOR" value="29323D" />
+                <option name="BACKGROUND" value="29323d" />
+                <option name="ERROR_STRIPE_COLOR" value="29323d" />
             </value>
         </option>
         <option name="DOC_CODE_BLOCK">
@@ -634,7 +634,7 @@
         </option>
         <option name="DUPLICATE_FROM_SERVER">
             <value>
-                <option name="BACKGROUND" value="3C3D29" />
+                <option name="BACKGROUND" value="3c3d29" />
             </value>
         </option>
         <option name="ENUM_NAME_ATTRIBUTES">
@@ -889,7 +889,7 @@
         <option name="INLINE_PARAMETER_HINT_CURRENT">
             <value>
                 <option name="FOREGROUND" value="aacefa" />
-                <option name="BACKGROUND" value="29323D" />
+                <option name="BACKGROUND" value="29323d" />
             </value>
         </option>
         <option name="INLINE_PARAMETER_HINT_HIGHLIGHTED">
@@ -954,17 +954,17 @@
         <option name="KOTLIN_PACKAGE_FUNCTION_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
         <option name="KOTLIN_SMART_CAST_RECEIVER">
             <value>
-                <option name="BACKGROUND" value="293D2F" />
+                <option name="BACKGROUND" value="293d2f" />
             </value>
         </option>
         <option name="KOTLIN_SMART_CAST_VALUE">
             <value>
-                <option name="BACKGROUND" value="293D2F" />
+                <option name="BACKGROUND" value="293d2f" />
             </value>
         </option>
         <option name="KOTLIN_SMART_CONSTANT">
             <value>
-                <option name="BACKGROUND" value="293D2F" />
+                <option name="BACKGROUND" value="293d2f" />
             </value>
         </option>
         <option name="KOTLIN_TYPE_PARAMETER" baseAttributes="TYPE_PARAMETER_NAME_ATTRIBUTES" />
@@ -1131,7 +1131,7 @@
         <option name="NG.SIGNAL" baseAttributes="TS.INSTANCE_MEMBER_FUNCTION" />
         <option name="NOT_TOP_FRAME_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="29323D" />
+                <option name="BACKGROUND" value="29323d" />
             </value>
         </option>
         <option name="NOT_USED_ELEMENT_ATTRIBUTES">
@@ -1323,7 +1323,7 @@
         </option>
         <option name="ReSharper.DYNAMIC_PROGRAM_ANALYSIS_HIGHLIGHTER_ISSUE_FRAME">
             <value>
-                <option name="BACKGROUND" value="3D3229" />
+                <option name="BACKGROUND" value="3d3229" />
             </value>
         </option>
         <option name="ReSharper.ENUM_IDENTIFIER">
@@ -1359,7 +1359,7 @@
         </option>
         <option name="ReSharper.MATCHED_FORMAT_STRING_ITEM">
             <value>
-                <option name="BACKGROUND" value="29323D" />
+                <option name="BACKGROUND" value="29323d" />
             </value>
         </option>
         <option name="ReSharper.NAMESPACE_IDENTIFIER">
@@ -1441,7 +1441,7 @@
         </option>
         <option name="SEARCH_RESULT_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="293D2F" />
+                <option name="BACKGROUND" value="293d2f" />
                 <option name="ERROR_STRIPE_COLOR" value="b9e1c6" />
             </value>
         </option>
@@ -1462,7 +1462,7 @@
         </option>
         <option name="TERMINAL_COMMAND_TO_RUN_USING_IDE">
             <value>
-                <option name="BACKGROUND" value="293D2F" />
+                <option name="BACKGROUND" value="293d2f" />
             </value>
         </option>
         <option name="TEXT">
@@ -1473,7 +1473,7 @@
         </option>
         <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="29323D" />
+                <option name="BACKGROUND" value="29323d" />
                 <option name="EFFECT_COLOR" value="aacefa" />
                 <option name="ERROR_STRIPE_COLOR" value="aacefa" />
             </value>
@@ -1584,14 +1584,14 @@
         </option>
         <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="3D292C" />
+                <option name="BACKGROUND" value="3d292c" />
                 <option name="ERROR_STRIPE_COLOR" value="ffa1b1" />
                 <option name="EFFECT_TYPE" value="1" />
             </value>
         </option>
         <option name="WRITE_SEARCH_RESULT_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="3D292C" />
+                <option name="BACKGROUND" value="3d292c" />
                 <option name="ERROR_STRIPE_COLOR" value="ffa1b1" />
             </value>
         </option>
@@ -1637,22 +1637,22 @@
         </option>
         <option name="dotCover.HIGHLIGHTER_COVERED">
             <value>
-                <option name="BACKGROUND" value="293D2F" />
+                <option name="BACKGROUND" value="293d2f" />
             </value>
         </option>
         <option name="dotCover.HIGHLIGHTER_COVERED_BY_FAILED_TESTS">
             <value>
-                <option name="BACKGROUND" value="3D292C" />
+                <option name="BACKGROUND" value="3d292c" />
             </value>
         </option>
         <option name="dotCover.HIGHLIGHTER_COVERED_BY_SUCCESSFUL_TESTS">
             <value>
-                <option name="BACKGROUND" value="293D2F" />
+                <option name="BACKGROUND" value="293d2f" />
             </value>
         </option>
         <option name="dotCover.HIGHLIGHTER_UNCOVERED">
             <value>
-                <option name="BACKGROUND" value="29323D" />
+                <option name="BACKGROUND" value="29323d" />
             </value>
         </option>
         <option name="dotCover.MARKER_COVERED">
