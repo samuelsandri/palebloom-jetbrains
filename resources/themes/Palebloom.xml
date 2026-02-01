@@ -812,6 +812,17 @@
             </value>
         </option>
         <option name="Groovy method declaration" baseAttributes="METHOD_DECLARATION_ATTRIBUTES" />
+        <option name="HANDLEBARS.IDENTIFIERS">
+            <value>
+                <option name="FOREGROUND" value="b8f1f9" />
+                <option name="FONT_TYPE" value="2" />
+            </value>
+        </option>
+        <option name="HANDLEBARS.MUSTACHES">
+            <value>
+                <option name="FOREGROUND" value="cdbbff" />
+            </value>
+        </option>
         <option name="HTML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
         <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
         <option name="HTML_CUSTOM_TAG_NAME">
@@ -908,6 +919,11 @@
                 <option name="BACKGROUND" value="343440" />
             </value>
         </option>
+        <option name="IntelliJComposableCallTextAttributes">
+            <value>
+                <option name="FOREGROUND" value="b9e1c6" />
+            </value>
+        </option>
         <option name="JADE_FILE_PATH" baseAttributes="DEFAULT_STRING" />
         <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
         <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
@@ -916,11 +932,6 @@
         <option name="JS.INSTANCE_MEMBER_FUNCTION" baseAttributes="DEFAULT_INSTANCE_METHOD" />
         <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
         <option name="JS.REGEXP" baseAttributes="DEFAULT_STRING" />
-        <option name="IntelliJComposableCallTextAttributes">
-            <value>
-                <option name="FOREGROUND" value="b9e1c6" />
-            </value>
-        </option>
         <option name="JSP_DIRECTIVE_NAME">
             <value>
                 <option name="FOREGROUND" value="cf8e6d" />
