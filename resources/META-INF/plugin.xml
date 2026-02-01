@@ -3,7 +3,7 @@
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
     <id>com.palebloom.jetbrains</id>
     <name>Palebloom Theme</name>
-    <version>1.2.2</version>
+    <version>1.2.3</version>
     <vendor url="https://www.palebloomtheme.com">Palebloom</vendor>
     <category>UI</category>
     <description><![CDATA[
@@ -18,13 +18,37 @@ Clean modern dark themes for JetBrains IDEs using the new Islands Theme style.
 <br>For more information visit the <a href="https://www.palebloomtheme.com">website</a>.
 ]]></description>
     <change-notes><![CDATA[
-Recent changes:
+1.2.3 - 02 Feb 26
+
+<ul>
+    <li>Added support for PHP (<a href="https://github.com/samuelsandri/palebloom-jetbrains/issues/1">#1</a>)</li>
+    <li>Added support for Go, Rust and Ruby</li>
+    <li>Improvements to templating languages</li>
+    <li>Fixed tab background colors</li>
+</ul>
+
+1.2.2 - 25 Jan 26
 
 <ul>
     <li>Fixed checkbox background</li>
     <li>Fixed error/warning/hint colors in Mossglade</li>
     <li>Fixed colors for C++ and Python</li>
 </ul>
+
+1.2.1 - 21 Jan 26
+
+<ul>
+    <li>Fixed selection and focus backgrounds</li>
+    <li>Improved Mossglade comment contrast</li>
+</ul>
+
+1.2.0 - 16 Jan 26
+
+<ul>
+    <li>Added darker night variants for themes</li>
+    <li>Fixed some contrast issues and missed styles</li>
+</ul>
+
 ]]></change-notes>
 
     <idea-version since-build="251"/>
