@@ -805,6 +805,75 @@
                 <option name="FONT_TYPE" value="1" />
             </value>
         </option>
+        <option name="GO_BUILD_TAG">
+            <value>
+                <option name="FOREGROUND" value="f7fbc6" />
+            </value>
+        </option>
+        <option name="GO_BUILTIN_CONSTANT">
+            <value>
+                <option name="FOREGROUND" value="b8f1f9" />
+            </value>
+        </option>
+        <option name="GO_BUILTIN_FUNCTION_CALL">
+            <value>
+                <option name="FOREGROUND" value="b8f1f9" />
+                <option name="FONT_TYPE" value="2" />
+            </value>
+        </option>
+        <option name="GO_BUILTIN_TYPE_REFERENCE">
+            <value>
+                <option name="FOREGROUND" value="b8f1f9" />
+            </value>
+        </option>
+        <option name="GO_BUILTIN_VARIABLE">
+            <value>
+                <option name="FOREGROUND" value="b8f1f9" />
+            </value>
+        </option>
+        <option name="GO_COMMENT_REFERENCE">
+            <value>
+                <option name="FOREGROUND" value="f7fbc6" />
+            </value>
+        </option>
+        <option name="GO_EXPORTED_FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
+        <option name="GO_EXPORTED_INTERFACE_REFERENCE">
+            <value>
+                <option name="FOREGROUND" value="b3f4d6" />
+                <option name="FONT_TYPE" value="2" />
+            </value>
+        </option>
+        <option name="GO_FUNCTION_PARAMETER">
+            <value>
+                <option name="FOREGROUND" value="f4c8d7" />
+                <option name="FONT_TYPE" value="2" />
+            </value>
+        </option>
+        <option name="GO_LOCAL_FUNCTION_CALL" baseAttributes="DEFAULT_FUNCTION_CALL" />
+        <option name="GO_LOCAL_INTERFACE_REFERENCE">
+            <value>
+                <option name="FOREGROUND" value="b3f4d6" />
+                <option name="FONT_TYPE" value="2" />
+            </value>
+        </option>
+        <option name="GO_METHOD_RECEIVER">
+            <value>
+                <option name="FOREGROUND" value="f4c8d7" />
+            </value>
+        </option>
+        <option name="GO_PACKAGE" baseAttributes="DEFAULT_IDENTIFIER" />
+        <option name="GO_SHADOWING_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+        <option name="GO_TAG_KEY">
+            <value>
+                <option name="FOREGROUND" value="f7fbc6" />
+            </value>
+        </option>
+        <option name="GO_TEMPLATE_DELIMITER">
+            <value>
+                <option name="FOREGROUND" value="b8f1f9" />
+            </value>
+        </option>
+        <option name="GO_TYPE_REFERENCE" baseAttributes="DEFAULT_CLASS_REFERENCE" />
         <option name="GRAMMAR_ERROR">
             <value>
                 <option name="EFFECT_COLOR" value="b8f1f9" />
@@ -1694,6 +1763,29 @@
         <option name="com.jetbrains.cmake.COMMAND">
             <value>
                 <option name="FOREGROUND" value="c3ffab" />
+            </value>
+        </option>
+        <option name="com.plan9.FLAG">
+            <value>
+                <option name="FOREGROUND" value="f4c8d7" />
+            </value>
+        </option>
+        <option name="com.plan9.IDENTIFIER" baseAttributes="DEFAULT_IDENTIFIER" />
+        <option name="com.plan9.INSTRUCTION">
+            <value>
+                <option name="FOREGROUND" value="c3ffab" />
+            </value>
+        </option>
+        <option name="com.plan9.LABEL" baseAttributes="DEFAULT_LABEL" />
+        <option name="com.plan9.PSEUDO_INSTRUCTION">
+            <value>
+                <option name="FOREGROUND" value="c3ffab" />
+                <option name="FONT_TYPE" value="2" />
+            </value>
+        </option>
+        <option name="com.plan9.REGISTER">
+            <value>
+                <option name="FOREGROUND" value="f7fbc6" />
             </value>
         </option>
         <option name="dotCover.HIGHLIGHTER_COVERED">
