@@ -4,14 +4,14 @@
         <property name="ideVersion">2025.2.5.0.0</property>
     </metaInfo>
     <colors>
-        <option name="ADDED_LINES_COLOR" value="293d2f" />
+        <option name="ADDED_LINES_COLOR" value="366344" />
         <option name="ANNOTATIONS_COLOR" value="b6b6ca" />
         <option name="ANNOTATIONS_LAST_COMMIT_COLOR" value="eaeaff" />
         <option name="CARET_COLOR" value="eaeaff" />
         <option name="CARET_ROW_COLOR" value="16161b" />
         <option name="CONSOLE_BACKGROUND_KEY" value="1a1a21" />
-        <option name="DELETED_LINES_COLOR" value="343440" />
-        <option name="DIFF_SEPARATORS_BACKGROUND" value="2B2D30" />
+        <option name="DELETED_LINES_COLOR" value="63363d" />
+        <option name="DIFF_SEPARATORS_BACKGROUND" value="343440" />
         <option name="DOCUMENTATION_COLOR" value="1a1a21" />
         <option name="DOC_COMMENT_GUIDE" value="272730" />
         <option name="DOC_COMMENT_LINK" value="aacefa" />
@@ -41,9 +41,9 @@
         <option name="HTML_TAG_TREE_LEVEL3" value="293d2f" />
         <option name="HTML_TAG_TREE_LEVEL4" value="3c3d29" />
         <option name="HTML_TAG_TREE_LEVEL5" value="3d3229" />
-        <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="293d2f" />
-        <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="343440" />
-        <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="29323d" />
+        <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="366344" />
+        <option name="IGNORED_DELETED_LINES_BORDER_COLOR" value="63363d" />
+        <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="364a63" />
         <option name="INDENT_GUIDE" value="272730" />
         <option name="INFORMATION_HINT" value="1a1a21" />
         <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="272730" />
@@ -61,7 +61,7 @@
         <option name="LOOKUP_COLOR" value="1a1a21" />
         <option name="MATCHED_BRACES_INDENT_GUIDE_COLOR" value="343440" />
         <option name="METHOD_SEPARATORS_COLOR" value="343440" />
-        <option name="MODIFIED_LINES_COLOR" value="29323d" />
+        <option name="MODIFIED_LINES_COLOR" value="364a63" />
         <option name="MODIFIED_TAB_ICON" value="aacefa" />
         <option name="NOTIFICATION_BACKGROUND" value="1a1a21" />
         <option name="PERCENT_BAR_COVERED_KEY" value="293d2f" />
@@ -86,7 +86,7 @@
         <option name="VISUAL_INDENT_GUIDE" value="272730" />
         <option name="WARNING_HINT" value="3d3229" />
         <option name="WHITESPACES" value="343440" />
-        <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="3d3229" />
+        <option name="WHITESPACES_MODIFIED_LINES_COLOR" value="606336" />
     </colors>
     <attributes>
         <option name="ANNOTATION_ATTRIBUTE_NAME_ATTRIBUTES">
@@ -362,6 +362,12 @@
         <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
         <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES" />
         <option name="Closure braces" baseAttributes="Braces" />
+        <option name="DEBUGGER_INLINED_VALUES">
+            <value>
+                <option name="FOREGROUND" value="b6b6ca" />
+                <option name="FONT_TYPE" value="2" />
+            </value>
+        </option>
         <option name="DEBUGGER_INLINED_VALUES_EXECUTION_LINE">
             <value>
                 <option name="FOREGROUND" value="b8f1f9" />
@@ -372,6 +378,44 @@
             <value>
                 <option name="FOREGROUND" value="f7fbc6" />
                 <option name="FONT_TYPE" value="2" />
+            </value>
+        </option>
+        <option name="DEBUGGER_PREDICTED_VALUE_FALSE">
+            <value>
+                <option name="BACKGROUND" value="63363d" />
+            </value>
+        </option>
+        <option name="DEBUGGER_PREDICTED_VALUE_FALSE_ALT">
+            <value>
+                <option name="BACKGROUND" value="63363d" />
+            </value>
+        </option>
+        <option name="DEBUGGER_PREDICTED_VALUE_TRUE">
+            <value>
+                <option name="BACKGROUND" value="366344" />
+            </value>
+        </option>
+        <option name="DEBUGGER_PREDICTED_VALUE_TRUE_ALT">
+            <value>
+                <option name="BACKGROUND" value="366344" />
+            </value>
+        </option>
+        <option name="DEBUGGER_SMART_STEP_INTO_SELECTION">
+            <value>
+                <option name="BACKGROUND" value="423663" />
+                <option name="EFFECT_COLOR" value="cdbbff" />
+            </value>
+        </option>
+        <option name="DEBUGGER_SMART_STEP_INTO_TARGET">
+            <value>
+                <option name="BACKGROUND" value="423663" />
+            </value>
+        </option>
+        <option name="DEBUGGER_UNREACHABLE_DECORATION">
+            <value>
+                <option name="FOREGROUND" value="88889b" />
+                <option name="EFFECT_COLOR" value="aacefa" />
+                <option name="EFFECT_TYPE" value="3" />
             </value>
         </option>
         <option name="DEFAULT_ATTRIBUTE">
@@ -600,26 +644,26 @@
         </option>
         <option name="DIFF_CONFLICT">
             <value>
-                <option name="BACKGROUND" value="3d3229" />
-                <option name="ERROR_STRIPE_COLOR" value="3d3229" />
+                <option name="BACKGROUND" value="634a36" />
+                <option name="ERROR_STRIPE_COLOR" value="634a36" />
             </value>
         </option>
         <option name="DIFF_DELETED">
             <value>
-                <option name="BACKGROUND" value="3d292c" />
-                <option name="ERROR_STRIPE_COLOR" value="3d292c" />
+                <option name="BACKGROUND" value="63363d" />
+                <option name="ERROR_STRIPE_COLOR" value="63363d" />
             </value>
         </option>
         <option name="DIFF_INSERTED">
             <value>
-                <option name="BACKGROUND" value="293d2f" />
-                <option name="ERROR_STRIPE_COLOR" value="293d2f" />
+                <option name="BACKGROUND" value="366344" />
+                <option name="ERROR_STRIPE_COLOR" value="366344" />
             </value>
         </option>
         <option name="DIFF_MODIFIED">
             <value>
-                <option name="BACKGROUND" value="29323d" />
-                <option name="ERROR_STRIPE_COLOR" value="29323d" />
+                <option name="BACKGROUND" value="364a63" />
+                <option name="ERROR_STRIPE_COLOR" value="364a63" />
             </value>
         </option>
         <option name="DOC_CODE_BLOCK">
@@ -667,9 +711,19 @@
                 <option name="EFFECT_TYPE" value="2" />
             </value>
         </option>
+        <option name="EVALUATED_EXPRESSION_ATTRIBUTES">
+            <value>
+                <option name="BACKGROUND" value="343440" />
+            </value>
+        </option>
+        <option name="EVALUATED_EXPRESSION_EXECUTION_LINE_ATTRIBUTES">
+            <value>
+                <option name="BACKGROUND" value="343440" />
+            </value>
+        </option>
         <option name="EXECUTIONPOINT_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="aacefa" />
+                <option name="BACKGROUND" value="364a63" />
             </value>
         </option>
         <option name="FOLDED_TEXT_ATTRIBUTES">
@@ -1019,6 +1073,11 @@
                 <option name="BACKGROUND" value="272730" />
             </value>
         </option>
+        <option name="INLINE_STACK_FRAMES">
+            <value>
+                <option name="BACKGROUND" value="343440" />
+            </value>
+        </option>
         <option name="IntelliJComposableCallTextAttributes">
             <value>
                 <option name="FOREGROUND" value="b9e1c6" />
@@ -1136,6 +1195,30 @@
         <option name="LIVE_TEMPLATE_INACTIVE_SEGMENT">
             <value>
                 <option name="EFFECT_COLOR" value="88889b" />
+            </value>
+        </option>
+        <option name="LOGCAT_FILTER_KEY">
+            <value>
+                <option name="FOREGROUND" value="eaeaff" />
+                <option name="BACKGROUND" value="366344" />
+            </value>
+        </option>
+        <option name="LOGCAT_FILTER_KVALUE">
+            <value>
+                <option name="FOREGROUND" value="eaeaff" />
+                <option name="BACKGROUND" value="366344" />
+            </value>
+        </option>
+        <option name="LOGCAT_FILTER_REGEX_KVALUE">
+            <value>
+                <option name="FOREGROUND" value="eaeaff" />
+                <option name="BACKGROUND" value="366344" />
+            </value>
+        </option>
+        <option name="LOGCAT_FILTER_STRING_KVALUE">
+            <value>
+                <option name="FOREGROUND" value="eaeaff" />
+                <option name="BACKGROUND" value="366344" />
             </value>
         </option>
         <option name="LOGCAT_V2_MESSAGE_ASSERT">
@@ -1562,6 +1645,12 @@
                 <option name="FONT_TYPE" value="2" />
             </value>
         </option>
+        <option name="ReSharper.DEBUGGER_EDIT_CONTINUE_UNABLE_TO_APPLY_CHANGES">
+            <value>
+                <option name="EFFECT_COLOR" value="cdbbff" />
+                <option name="EFFECT_TYPE" value="2" />
+            </value>
+        </option>
         <option name="ReSharper.DELEGATE_IDENTIFIER">
             <value>
                 <option name="FOREGROUND" value="f4c8d7" />
@@ -1687,7 +1776,7 @@
         </option>
         <option name="SEARCH_RESULT_ATTRIBUTES">
             <value>
-                <option name="BACKGROUND" value="293d2f" />
+                <option name="BACKGROUND" value="366344" />
                 <option name="ERROR_STRIPE_COLOR" value="b9e1c6" />
             </value>
         </option>
@@ -1782,6 +1871,11 @@
                 <option name="FOREGROUND" value="ffa1b1" />
                 <option name="FONT_TYPE" value="2" />
                 <option name="ERROR_STRIPE_COLOR" value="ffa1b1" />
+            </value>
+        </option>
+        <option name="TS.TYPE_GUARD">
+            <value>
+                <option name="BACKGROUND" value="293d2f" />
             </value>
         </option>
         <option name="TS.TYPE_PARAMETER">
