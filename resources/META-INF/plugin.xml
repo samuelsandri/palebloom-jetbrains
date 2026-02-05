@@ -3,7 +3,7 @@
     <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
     <id>com.palebloom.jetbrains</id>
     <name>Palebloom Theme</name>
-    <version>1.2.3</version>
+    <version>1.2.4</version>
     <vendor url="https://www.palebloomtheme.com">Palebloom</vendor>
     <category>UI</category>
     <description><![CDATA[
@@ -18,6 +18,13 @@ Clean modern dark themes for JetBrains IDEs using the new Islands Theme style.
 <br>For more information visit the <a href="https://www.palebloomtheme.com">website</a>.
 ]]></description>
     <change-notes><![CDATA[
+1.2.4 - 05 Feb 26
+
+<ul>
+    <li>Fixed debugger background (<a href="https://github.com/samuelsandri/palebloom-jetbrains/issues/2">#2</a>)</li>
+    <li>Improved clarity of other backgrounds (search, diff, vcs)</li>
+</ul>
+
 1.2.3 - 02 Feb 26
 
 <ul>
